@@ -772,8 +772,6 @@ class _pdf_viewerState extends State<pdf_viewer> {
                       child: Container(
                         height: 150,
                         width: 150,
-                        child: Image.file(
-                            Global.selectedResume!.profileImageFile!),
                         decoration: BoxDecoration(
                           shape: BoxShape.circle,
                           color: Colors.red,
@@ -1415,7 +1413,6 @@ class _pdf_viewerState extends State<pdf_viewer> {
                     final File file = File(
                         "${directory!.path}/${Global.selectedResume!.resumeName}.pdf");
                     await file.writeAsBytes(await pdf.save());
-                    toastMessage(context: context, message: "pdf saved....");
                   },
                   child: Icon(Icons.download),
                 ),
