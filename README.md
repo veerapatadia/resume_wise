@@ -10,7 +10,7 @@ Join the ResumeWise community and connect with fellow job seekers, share insight
 
 Take the first step towards your dream career with ResumeWise. Download the app today and unleash your full potential!
 
-
+https://github.com/veerapatadia/resume_wise/assets/150000048/f012d5fb-cf76-496c-8c76-f80dffec5feb
 
 ![Screenshot_20240424_235653](https://github.com/veerapatadia/resume_wise/assets/150000048/302f66a7-5a06-44b8-b07a-05853c4de40b)
 ![Screenshot_20240424_235726](https://github.com/veerapatadia/resume_wise/assets/150000048/1a08a81e-1b54-44de-909b-f78b3c1c78cb)
