@@ -14,8 +14,13 @@ Take the first step towards your dream career with ResumeWise. Download the app 
 
 ![Screenshot_20240424_235653](https://github.com/veerapatadia/resume_wise/assets/150000048/302f66a7-5a06-44b8-b07a-05853c4de40b)
 ![Screenshot_20240424_235726](https://github.com/veerapatadia/resume_wise/assets/150000048/1a08a81e-1b54-44de-909b-f78b3c1c78cb)
-
+![Screenshot_20240424_235800](https://github.com/veerapatadia/resume_wise/assets/150000048/196a9b99-6712-4f8e-85b2-31b39ec545d3)
 ![Screenshot_20240424_235852](https://github.com/veerapatadia/resume_wise/assets/150000048/2ec511b9-8389-4d00-ac47-9d8542e104cd)
+![Screenshot_20240424_235906](https://github.com/veerapatadia/resume_wise/assets/150000048/a0b3ff80-689a-4440-8060-de55d0483da2)
+![Screenshot_20240424_235954](https://github.com/veerapatadia/resume_wise/assets/150000048/29fa4540-7b1a-4b58-beaf-a02da730a539)
+![Screenshot_20240425_000025](https://github.com/veerapatadia/resume_wise/assets/150000048/e33e3b87-b184-48d5-91cb-aca18fd81d87)
+![Screenshot_20240425_000129](https://github.com/veerapatadia/resume_wise/assets/150000048/2104a567-63f7-4bdd-8e3f-2e052c2b2455)
+![Screenshot_20240425_000205](https://github.com/veerapatadia/resume_wise/assets/150000048/2692e9fe-58cb-468c-a568-aa3ee7c0ab3d)
 
 
 
