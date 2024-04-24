@@ -9,3 +9,4 @@ ResumeWise features a user-friendly interface designed to streamline the resume-
 Join the ResumeWise community and connect with fellow job seekers, share insights, and receive feedback on your resume from industry professionals. With interactive features such as peer reviews and expert advice, ResumeWise helps you refine your resume until it's perfect.
 
 Take the first step towards your dream career with ResumeWise. Download the app today and unleash your full potential!
+![Screenshot_20240424_091024](https://github.com/veerapatadia/resume_wise/assets/150000048/66e8f6c9-99ca-4b87-93bf-283382c3b001)
