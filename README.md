@@ -11,21 +11,11 @@ Join the ResumeWise community and connect with fellow job seekers, share insight
 Take the first step towards your dream career with ResumeWise. Download the app today and unleash your full potential!
 
 
-![Screenshot_20240424_112304](https://github.com/veerapatadia/resume_wise/assets/150000048/b6ac504e-922a-44a3-acf0-9cb72a03bc28)
-![Screenshot_20240424_091024](https://github.com/veerapatadia/resume_wise/assets/150000048/ec72fd65-f814-4b7f-9a98-884cc7d58308)
-![Screenshot_20240424_091222](https://github.com/veerapatadia/resume_wise/assets/150000048/52f1ccbf-5348-4a98-9542-4a96e7cf7676)
-![Screenshot_20240424_091242](https://github.com/veerapatadia/resume_wise/assets/150000048/5cac7318-f6f7-4b82-bede-3a693d90239b)
-![Screenshot_20240424_091340](https://github.com/veerapatadia/resume_wise/assets/150000048/67ae79d7-bb94-46e4-8cab-cace2c35b100)
-![Screenshot_20240424_091358](https://github.com/veerapatadia/resume_wise/assets/150000048/07300fd5-4e4c-4e04-bb18-daeead5d9d14)
-![Screenshot_20240424_091428](https://github.com/veerapatadia/resume_wise/assets/150000048/355166fd-20fc-482e-a826-3d7a7e0ca761)
-![Screenshot_20240424_091532](https://github.com/veerapatadia/resume_wise/assets/150000048/16c5816c-260e-46cb-9dc7-3e3f20db1781)
-![Screenshot_20240424_091617](https://github.com/veerapatadia/resume_wise/assets/150000048/2c1be5be-f1f3-4c6d-abf2-1f66bc7f8845)
 
+![Screenshot_20240424_235653](https://github.com/veerapatadia/resume_wise/assets/150000048/302f66a7-5a06-44b8-b07a-05853c4de40b)
+![Screenshot_20240424_235726](https://github.com/veerapatadia/resume_wise/assets/150000048/1a08a81e-1b54-44de-909b-f78b3c1c78cb)
 
-
-
-
-
+![Screenshot_20240424_235852](https://github.com/veerapatadia/resume_wise/assets/150000048/2ec511b9-8389-4d00-ac47-9d8542e104cd)
 
 
 
