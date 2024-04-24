@@ -21,11 +21,18 @@ Take the first step towards your dream career with ResumeWise. Download the app 
 ![Screenshot_20240425_000025](https://github.com/veerapatadia/resume_wise/assets/150000048/e33e3b87-b184-48d5-91cb-aca18fd81d87)
 ![Screenshot_20240425_000129](https://github.com/veerapatadia/resume_wise/assets/150000048/2104a567-63f7-4bdd-8e3f-2e052c2b2455)
 ![Screenshot_20240425_000205](https://github.com/veerapatadia/resume_wise/assets/150000048/2692e9fe-58cb-468c-a568-aa3ee7c0ab3d)
-
-
-
-
-
+![Screenshot_20240425_000319](https://github.com/veerapatadia/resume_wise/assets/150000048/ad460755-f6cf-462c-8258-fcd6d7913548)
+![Screenshot_20240425_000332](https://github.com/veerapatadia/resume_wise/assets/150000048/df3b463c-d82f-4ded-a3f9-3deb1a0f21f5)
+![Screenshot_20240425_000418](https://github.com/veerapatadia/resume_wise/assets/150000048/7c7c944c-4bd6-40fe-aada-64ae2da948c3)
+![Screenshot_20240425_000442](https://github.com/veerapatadia/resume_wise/assets/150000048/623083c2-f727-4f54-a205-d3ade618c425)
+![Screenshot_20240425_000514](https://github.com/veerapatadia/resume_wise/assets/150000048/5ebc39b9-2ff1-48fa-82d1-2c35a16ffcc1)
+![Screenshot_20240425_000606](https://github.com/veerapatadia/resume_wise/assets/150000048/4b0d4fe9-eebc-40c0-b0f5-15dc2fdad779)
+![Screenshot_20240425_000632](https://github.com/veerapatadia/resume_wise/assets/150000048/b0ef3feb-91d3-4afb-9743-4a8aa1a07dfd)
+![Screenshot_20240425_000725](https://github.com/veerapatadia/resume_wise/assets/150000048/7d989499-ba26-40e6-9d8f-5d140148fe14)
+![Screenshot_20240425_000817](https://github.com/veerapatadia/resume_wise/assets/150000048/c1e7d197-6e27-4c7d-a894-bd2c0c595e2b)
+![Screenshot_20240425_000830](https://github.com/veerapatadia/resume_wise/assets/150000048/45f302ce-3a56-4124-95a9-705c2275f200)
+![Screenshot_20240425_000843](https://github.com/veerapatadia/resume_wise/assets/150000048/b70b84f6-93e7-4645-a1d3-56b0be2df1f0)
+![Screenshot_20240425_000934](https://github.com/veerapatadia/resume_wise/assets/150000048/a3f455c6-5f0f-4588-8043-8fa0caebeca0)
 
 
 
