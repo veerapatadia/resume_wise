@@ -10,12 +10,10 @@ Join the ResumeWise community and connect with fellow job seekers, share insight
 
 Take the first step towards your dream career with ResumeWise. Download the app today and unleash your full potential!
 
-![Screenshot_20240424_112304](https://github.com/veerapatadia/resume_wise/assets/150000048/eb82dc0e-6d6e-41e8-865f-4c13fac2b1f8)
-![Screenshot_20240424_091024](https://github.com/veerapatadia/resume_wise/assets/150000048/893d212b-7c3d-449e-83ca-1531607aa77f)
-![Screenshot_20240424_091222](https://github.com/veerapatadia/resume_wise/assets/150000048/1c51fe53-703e-4063-92bf-cee0aed08b9a)
 
-
-
+![Screenshot_20240424_112304](https://github.com/veerapatadia/resume_wise/assets/150000048/b6ac504e-922a-44a3-acf0-9cb72a03bc28)
+![Screenshot_20240424_091024](https://github.com/veerapatadia/resume_wise/assets/150000048/ec72fd65-f814-4b7f-9a98-884cc7d58308)
+![Screenshot_20240424_091222](https://github.com/veerapatadia/resume_wise/assets/150000048/52f1ccbf-5348-4a98-9542-4a96e7cf7676)
 
 
 
